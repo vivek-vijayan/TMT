@@ -1,6 +1,4 @@
-Sure, here's a complete README.md file for the Java Swing-based Task Manager Tool project:
 
-```markdown
 # TMT - Task Manager Tool (Java)
 
 TMT is a lightweight and user-friendly Task Manager tool built with Java Swing. It provides a simple yet powerful interface for monitoring and managing running processes on your system.
